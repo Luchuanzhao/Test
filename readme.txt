@@ -1,2 +1,3 @@
 This is my first git file!
-modify
+modify1
+modify2
